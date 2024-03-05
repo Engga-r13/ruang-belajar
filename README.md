@@ -4,5 +4,5 @@ md
 
 Contributor:
 
-- `<yourname> - <id>`
+- `<Thegar Abiyudho Enggar Prasetyo> - <BE8594208>`
 - Bob
